@@ -1,0 +1,44 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "computador",
+      "precio": 143.4,
+      "descripcion": "hp", 
+      "categoriaId": 1
+    },
+    {
+      "id": 2,
+      "nombre": "portatil",
+      "precio": 5453.4,
+      "descripcion": "acer",
+      "categoriaId": 1
+    },
+    {
+      "id": 3,
+      "nombre": "mouse gamer",
+      "precio": 3.454,
+      "descripcion": "led",
+      "categoriaId": 2
+    },
+    {
+      "id": 4,
+      "nombre": "teclado",
+      "precio": 656.443,
+      "descripcion": "rgb",
+      "categoriaId": 2
+    }
+  ],
+  "categorias": [
+    {
+      "id": "1",
+      "nombre": "computadores",
+      "descripcion": "computadores, portatiles, etc"
+    },
+    {
+      "id": "2",
+      "nombre": "gaming",
+      "descripcion": "mouses, teclados, etc"
+    }
+  ]
+}
