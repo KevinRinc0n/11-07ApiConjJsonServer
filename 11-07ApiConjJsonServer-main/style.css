@@ -1,0 +1,50 @@
+.contenedorCrear{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(234, 236, 236);
+    height: 350px;
+    width: 20%;
+    border: 2px solid rgba(182, 182, 182, 0.356);
+    border-radius: 5%;
+    margin-bottom: 5%;
+    margin-left: 40%;
+    box-shadow: 10px 10px 20px 10px rgb(207, 207, 207);
+}
+
+#crear{
+    display: flex;
+    flex-direction: column;
+}
+
+#crear .btn{
+    margin-top: 10%;
+}
+
+#selector{
+    margin-top: 10%;
+}
+
+#editarSelector{
+    margin-top: 4%;
+}
+
+.int{
+    text-align: center;
+    margin-top: 10%;
+}
+
+.intD{
+    display: flex;
+    margin-top: 5%;
+    width: 100%;
+    color: black;
+    border: 0;
+    border-bottom: 2px solid rgb(0, 0, 0);
+    text-align: center;
+}
+
+.msg-error {
+    color: #da0047;
+    display: block;
+    margin-top: 10px;
+}
